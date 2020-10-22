@@ -11,7 +11,7 @@ const Controlled = () => {
         User <input type="text" name="user" value={user} // populating the value
             onChange={(event) => setUser(event.target.value)} />{/* updating state */}
       </label>
-      <input type="submit" value="Submit"/>{user}
+      <input type="submit" value="Submit"/>
     </form>         
   )
 }
