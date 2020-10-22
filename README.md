@@ -1,8 +1,11 @@
 # React Controlled vs Uncontrolled Components
 
-### Code supporting my lightning talk
+The slides linked are done more or less using [Takahashi method](https://en.wikipedia.org/wiki/Takahashi_method).
+Not much info on them, I talk more when presenting them, just supplemented by code snippets.
 
 [Google Slides](https://docs.google.com/presentation/d/12CeaPbAXE8-rwqHd_2Q_02Ql_KpbMRBvL2QX--Ckc4k/edit?usp=sharing)
+
+### Code supporting my lightning talk
 
 ## Important pieces of code
 
