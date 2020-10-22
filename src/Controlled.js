@@ -4,7 +4,7 @@ const Controlled = () => {
   const [user, setUser] = useState('') // holding the state
   const validateInput = (event) => {
     if (!user) { alert('User must be provided'); event.preventDefault() }
-  }
+  } // value comes from the state hook
   return (
     <form method="POST" target="/login" onSubmit={validateInput}>
       <label>
